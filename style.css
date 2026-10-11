@@ -47,3 +47,8 @@ img {
   width: 25vw;
   height: auto;
 }
+.img_coté {
+  width: 25vw;
+  height: auto;
+  text-align: right;
+}
