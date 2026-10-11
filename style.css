@@ -1,0 +1,49 @@
+html {
+  background-color: #d2d2d2;
+}
+p {
+  font-family: "Libre Caslon Condensed", serif;
+}
+h1{
+  font-family: "Libre Caslon Condensed", serif;
+  text-align: center;
+}
+.NEWS_SCHOOL {
+  background-color: #c200dc;
+  text-align: left;
+  color: white;
+}
+.Sport {
+  background-color: #ff8c00;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+.Monde {
+  background-color: #005ee2;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+.questions {
+  background-color: black;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+.Jeu {
+  background-color: #545654;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+.cuisine {
+  background-color: #13e87a;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+.Interview {
+  background-color: #0df2ea;
+  text-align: left;
+  color: rgb(255, 255, 255);
+}
+img {
+  width: 25vw;
+  height: auto;
+}
