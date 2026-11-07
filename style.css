@@ -46,6 +46,7 @@ h1{
 img {
   width: 25vw;
   height: auto;
+  text-align: right;
 }
 .img_coté {
   width: 25vw;
